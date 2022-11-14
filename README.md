@@ -7,6 +7,7 @@ Stock Market is one of the most profitable areas of investment, today we have th
 
 3- Exported Data to SQL Developer to generate Queries. 
 
-4- Scientific studies from research to generate a sequential analysis based on the most important and effective indicators, so an emperical design generated.
+4- Scientific studies from research to generate a sequential analysis based on the most important and effective indicators, 
+   so an emperical design generated.
 
 5- The analysis contains 15 DashBoards with variety of insights, statistical analysis and descriptive charts.
